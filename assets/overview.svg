@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">АВТОДОР / RAG — портфолио проекта</title>
+  <desc id="desc">Нормативные источники и проектная документация. Описание, архитектура и дерево файлов доступны публично; реализация хранится приватно.</desc>
+  <rect x="1" y="1" width="1278" height="358" rx="22" fill="#0e172a" stroke="#2a3a54"/>
+  <path d="M1170 42 L1230 42 L1230 102 M1165 302 L1230 302 L1230 242" fill="none" stroke="#6cbdff" stroke-width="2" opacity=".65"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="58" y="40" width="7" height="17" rx="3" fill="#6cbdff"/>
+    <text x="79" y="54" font-size="13" letter-spacing="2.6" fill="#a4b5cd">PROJECT SHOWCASE</text>
+    <rect x="980" y="32" width="221" height="38" rx="19" fill="#17283c" stroke="#365069"/>
+    <circle cx="1003" cy="51" r="4" fill="#6cbdff"/>
+    <text x="1017" y="57" font-size="13" letter-spacing="1.2" fill="#d7e3f4">PRIVATE SOURCE</text>
+    <text x="55" y="141" font-size="47" font-weight="700" fill="#f4f7fc">АВТОДОР / RAG</text>
+    <text x="58" y="185" font-size="23" fill="#bdcce1">Нормативные источники и проектная документация</text>
+    <rect x="58" y="241" width="256" height="55" rx="12" fill="#172238" stroke="#33445d"/><text x="78" y="276" font-size="17" font-weight="600" fill="#e2e8f0">DOCUMENTS</text><path d="M322 268 h12 m-5 -5 5 5 -5 5" fill="none" stroke="#6cbdff" stroke-width="2"/><rect x="343" y="241" width="256" height="55" rx="12" fill="#172238" stroke="#33445d"/><text x="363" y="276" font-size="17" font-weight="600" fill="#e2e8f0">RETRIEVAL</text><path d="M607 268 h12 m-5 -5 5 5 -5 5" fill="none" stroke="#6cbdff" stroke-width="2"/><rect x="628" y="241" width="256" height="55" rx="12" fill="#172238" stroke="#33445d"/><text x="648" y="276" font-size="17" font-weight="600" fill="#e2e8f0">REVIEW</text>
+    <text x="58" y="329" font-size="13" fill="#8fa2bf">Обзор проекта · архитектура · дерево реализации · иллюстративный main</text>
+  </g>
+</svg>
